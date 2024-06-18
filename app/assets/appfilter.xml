@@ -9171,8 +9171,6 @@
   <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.MainActivity}" drawable="soundcloud" name="SoundCloud" />
   <item component="ComponentInfo{com.oceanwing.soundcore/com.oceanwing.soundcore.activity.SelectCategoryNewActivity}" drawable="soundcore" name="Soundcore" />
   <item component="ComponentInfo{com.oceanwing.soundcore/com.oceanwing.soundcore.activity.WelcomeActivity}" drawable="soundcore" name="Soundcore" />
-  <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SoundHound}" drawable="soundhound" name="SoundHound" />
-  <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound" name="SoundHound" />
   <item component="ComponentInfo{com.sonarworks.soundid.mobile/com.sonarworks.soundid.mobile.SoundIdActivity}" drawable="soundid" name="SoundID" />
   <item component="ComponentInfo{com.thirtydays.headset/com.thirtydays.headset.page.activity.LoadingActivity}" drawable="soundpeats" name="SoundPeats" />
   <item component="ComponentInfo{re.sova.five/re.sova.five.SovaVkName}" drawable="sova_five" name="SOVA V RE" />
@@ -11824,4 +11822,48 @@
   <item component="ComponentInfo{com.starbucks.co/com.starbucks.co2.ui.intro.IntroActivity}" drawable="starbucks" name="스타벅스 ~~ Starbucks" />
   <item component="ComponentInfo{viva.republica.toss/viva.republica.toss.splash.SplashActivity}" drawable="toss" name="토스 ~~ Toss" />
   <item component="ComponentInfo{space.takashima.keypo/org.mozc.android.inputmethod.japanese.LauncherActivity}" drawable="keyboard" name="ﾀｸﾄ ｷｰﾎﾞｰﾄﾞ ~~ Takt keyboard" />
+    <item component="ComponentInfo{com.excean.na/com.excelliance.kxqp.ui.HelloActivity}" drawable="_99boost" name="99手游加速器"/>
+    <item component="ComponentInfo{com.giraffe/com.speed.shadowsocks.ui.SplashActivity}" drawable="giraffe" name="安易加速器"/>
+    <item component="ComponentInfo{one.yufz.hmspush/one.yufz.hmspush.app.MainActivity}" drawable="hmspush" name="HMSPush"/>
+    <item component="ComponentInfo{com.zidongdianji/com.autoclicker.clicker.ads.SplashActivity}" drawable="zidongdianji" name="自动点击器"/>
+    <item component="ComponentInfo{com.xjcheng.musictageditor/com.xjcheng.musictageditor.MainActivity}" drawable="musictageditor" name="音乐标签"/>
+    <item component="ComponentInfo{io.github.kaii_lb.yamfsquared/io.github.kaii_lb.yamfsquared.manager.ui.main.MainActivity}" drawable="yamfsquared2" name="YAMF^2"/>
+    <item component="ComponentInfo{ca.zgrs.clipper/ca.zgrs.clipper.Main}" drawable="clipper" name="Clipper"/>
+    <item component="ComponentInfo{com.PigeonGames.Rizline/com.unity3d.player.UnityPlayerActivity}" drawable="rizline" name="律动轨迹 ~~ Rizline"/>
+    <item component="ComponentInfo{com.bytedance.ls.merchant/com.bytedance.ls.merchant.SplashActivity}" drawable="tiktok_merchant" name="抖音来客"/>
+    <item component="ComponentInfo{com.rair.adbwifi/com.rair.adbwifi.activity.MainActivity}" drawable="adbwifi" name="ADB WIFI"/>
+    <item component="ComponentInfo{com.morizero.milthm/com.unity3d.player.UnityPlayerActivity}" drawable="milthm" name="Nilthm"/>
+    <item component="ComponentInfo{com.BigTrue.Orzmic/com.unity3d.player.UnityPlayerActivity}" drawable="orzmic" name="Orzmic"/>
+    <item component="ComponentInfo{net.labymod.app/net.labymod.app.MainActivity}" drawable="labymod" name="LabyMod"/>
+    <item component="ComponentInfo{com.xmcy.hykb/com.xmcy.hykb.app.ui.splash.SplashActivity}" drawable="hykb" name="好游快爆"/>
+    <item component="ComponentInfo{com.tencent.game.rhythmmaster/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}" drawable="rhythm_master" name="节奏大师 ~~ Rhythm Master"/>
+    <item component="ComponentInfo{com.scities.mall/com.scities.mall.module.login.splash.activity.SpanlishActivity}" drawable="scities_mall" name="居里智能卖家版"/>
+    <item component="ComponentInfo{xzr.konabess/xzr.konabess.MainActivity}" drawable="konabess" name="KonaBess"/>
+    <item component="ComponentInfo{com.limelight.unofficialA/com.limelight.PcView}" drawable="moonlight" name="Moonlight-阿西西"/>
+    <item component="ComponentInfo{com.crossbowffs.nekosms/com.crossbowffs.nekosms.app.MainActivity}" drawable="nekosms" name="NekoSMS"/>
+    <item component="ComponentInfo{com.didjdk.adbhelper/com.didjdk.adbhelper.ConnectActivity}" drawable="adbhelper" name="甲壳虫ADB助手"/>
+    <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound" name="SoundHound"/>
+    <item component="ComponentInfo{com.MusitatStudio.RYCEAMGlobal/com.unity3d.player.UnityPlayerActivity}" drawable="ryceam" name="RYCEAM"/>
+    <item component="ComponentInfo{com.oasisfeng.nevo/com.oasisfeng.nevo.SettingsActivity}" drawable="nevo" name="女娲石 ~~ Nevolution"/>
+    <item component="ComponentInfo{tool.seagull.v/io.github.trojan_gfw.igniter.MainActivity}" drawable="seagull" name="海鸥加速器"/>
+    <item component="ComponentInfo{com.taptap.global/com.play.taptap.ui.SplashAct}" drawable="taptap_global" name="TapTap"/>
+    <item component="ComponentInfo{com.tunergames.paradigmchina/com.unity3d.player.UnityPlayerActivity}" drawable="paradigm_reboot_china" name="范式：起源 ~~ Paradigm:Reboot"/>
+    <item component="ComponentInfo{com.videogo/com.videogo.LauncherActivity}" drawable="videogo" name="萤石云视频"/>
+    <item component="ComponentInfo{com.hermes.mk.asia/com.hermes.mk.SDKActivity}" drawable="pjsk" name="世界计划"/>
+    <item component="ComponentInfo{com.yxer.packageinstalles/com.yxer.packageinstalles.MainUiActivity}" drawable="r_packageinstaller" name="R-安装组件"/>
+    <item component="ComponentInfo{com.xd.rotaeno.tapio/com.unity3d.player.UnityPlayerActivity}" drawable="rotaeno" name="旋转音律 ~~ Rotaeno"/>
+    <item component="ComponentInfo{com.njh.biubiu/com.njh.ping.launcher.LauncherActivity}" drawable="biubiu" name="biubiu加速器"/>
+    <item component="ComponentInfo{xyz.chz.bfm/xyz.chz.bfm.ui.MainActivity}" drawable="box_for_root" name="BoxForRoot"/>
+    <item component="ComponentInfo{com.net.x2.app/com.net.x2.MainActivity}" drawable="dushe" name="毒舌加速器"/>
+    <item component="ComponentInfo{com.showstartfans.activity/com.showstartfans.activity.activitys.welcome.WelcomeNewActivity}" drawable="showstartfans" name="秀动"/>
+    <item component="ComponentInfo{com.tunergames.paradigm/com.unity3d.player.UnityPlayerActivity}" drawable="paradigm_reboot" name="范式：起源 ~~ Paradigm:Reboot"/>
+    <item component="ComponentInfo{org.flos.phira/org.flos.phira.MainActivity}" drawable="phira" name="Phira"/>
+    <item component="ComponentInfo{com.yubyf.quotelockx/com.crossbowffs.quotelock.app.main.MainActivity}" drawable="quotelockx" name="格言锁屏 X ~~ QuoteLock X"/>
+    <item component="ComponentInfo{net.huanci.hsjpro/net.huanci.hsjpro.activities.FlashActivity}" drawable="hsjpro" name="画世界Pro"/>
+    <item component="ComponentInfo{com.kieronquinn.app.pixellaunchermods/com.kieronquinn.app.pixellaunchermods.ui.activities.MainActivity}" drawable="pixel_launcher_mods" name="Pixel Launcher Mods"/>
+    <item component="ComponentInfo{sh.siava.pixelxpert/sh.siava.pixelxpert.SplashScreenActivityNormalIcon}" drawable="pixel_xpert" name="Pixel Xpert"/>
+    <item component="ComponentInfo{com.cmplay.dancingline/com.cmplay.dancingline.AppActivity}" drawable="dancingline" name="跳舞的线 ~~ Dancing Line"/>
+    <item component="ComponentInfo{xzr.La.systemtoolbox/xzr.La.systemtoolbox.ui.activities.StartActivity}" drawable="la_systemtoolbox" name="镧·系统工具箱 ~~ La SystemToolbox"/>
+    <item component="ComponentInfo{org.proxydroid/org.proxydroid.ProxyDroid}" drawable="proxydroid" name="ProxyDroid"/>
+    <item component="ComponentInfo{moe.low.arcedit/low.moe.AppActivity}" drawable="arcedit" name="Arcedit"/>
 </resources>
