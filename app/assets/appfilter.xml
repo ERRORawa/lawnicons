@@ -8959,9 +8959,9 @@
   <item component="ComponentInfo{com.pavelrekun.skit.premium/com.pavelrekun.skit.containers.PrimaryContainerActivity}" drawable="skit_premium" name="Skit Premium" />
   <item component="ComponentInfo{com.pavelrekun.skit.premium/com.pavelrekun.skit.base.BaseActivity}" drawable="skit_premium" name="Skit Premium" />
   <item component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}" drawable="sky_map" name="Sky Map" />
-  <item component="ComponentInfo{com.tgc.sky.android/com.google.android.gms.security.ProviderInstall}" drawable="sky_children_of_the_light" name="Sky: Children of the Light" />
-  <item component="ComponentInfo{com.tgc.sky.android/com.tgc.sky.GameActivity}" drawable="sky_children_of_the_light" name="Sky: Children of the Light" />
-  <item component="ComponentInfo{com.tgc.sky.android/com.tgc.sky.TGCBootActivity}" drawable="sky_children_of_the_light" name="Sky: Children of the Light" />
+  <item component="ComponentInfo{com.tgc.sky.android/com.google.android.gms.security.ProviderInstall}" drawable="sky_children_of_the_light" name="光·遇 ~~ Sky: Children of the Light" />
+  <item component="ComponentInfo{com.tgc.sky.android/com.tgc.sky.GameActivity}" drawable="sky_children_of_the_light" name="光·遇 ~~ Sky: Children of the Light" />
+  <item component="ComponentInfo{com.tgc.sky.android/com.tgc.sky.TGCBootActivity}" drawable="sky_children_of_the_light" name="光·遇 ~~ Sky: Children of the Light" />
   <item component="ComponentInfo{skyline.emu/emu.skyline.MainActivity}" drawable="skyline" name="Skyline" />
   <item component="ComponentInfo{com.skype.raider/com.skype4life.MainActivity}" drawable="skype" name="Skype" />
   <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" name="Skype" />
@@ -11866,4 +11866,8 @@
   <item component="ComponentInfo{xzr.La.systemtoolbox/xzr.La.systemtoolbox.ui.activities.StartActivity}" drawable="la_systemtoolbox" name="镧·系统工具箱 ~~ La SystemToolbox" />
   <item component="ComponentInfo{org.proxydroid/org.proxydroid.ProxyDroid}" drawable="proxydroid" name="ProxyDroid" />
   <item component="ComponentInfo{moe.low.arcedit/low.moe.AppActivity}" drawable="arcedit" name="Arcedit" />
+  <item component="ComponentInfo{com.example.c001apk.flutter/com.example.c001apk.flutter.MainActivity}" drawable="c001apk" name="c001apk_flutter" />
+  <item component="ComponentInfo{com.netease.gl/com.netease.gl.ui.activity.welcome.WelcomeInitActivity}" drawable="netease_god" name="网易大神" />
+  <item component="ComponentInfo{com.leiting.ldgj/com.leiting.sdk.activity.PrivacyActivity}" drawable="rizline_cn" name="律动轨迹 ~~ Rizline"/>
+  <item component="ComponentInfo{com.netease.sky/com.netease.ntunisdk.external.protocol.ProtocolLauncher}" drawable="sky_cn" name="光·遇 ~~ Sky: Children of the Light"/>
 </resources>

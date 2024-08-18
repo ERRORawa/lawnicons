@@ -88,4 +88,8 @@
     <icon drawable="@drawable/taptap_global" package="com.taptap.global" name="TapTap" />
     <icon drawable="@drawable/soundhound" package="com.soundhound.melodis.midomiMusicIdentifier.freemiul" name="SoundHound" />
     <icon drawable="@drawable/la_systemtoolbox" package="xzr.La.systemtoolbox" name="镧·系统工具箱 ~~ La SystemToolbox" />
+    <icon drawable="@drawable/c001apk" package="com.example.c001apk.flutter" name="c001apk-flutter" />
+    <icon drawable="@drawable/netease_god" package="com.example.c001apk.flutter" name="c001apk-flutter" />
+    <icon drawable="@drawable/rizline_cn" package="com.leiting.ldgj" name="律动轨迹 ~~ Rizline" />
+    <icon drawable="@drawable/sky_cn" package="com.netease.sky" name="光·遇 ~~ Sky: Children of the Light" />
 </icons>
