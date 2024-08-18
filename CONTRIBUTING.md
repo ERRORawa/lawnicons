@@ -4,7 +4,7 @@ Welcome to the Lawnicons contributing guide! This file will tell you what you ne
 Before you start, please [fork](https://github.com/LawnchairLauncher/lawnicons/fork) the project and clone it to your machine. Afterwards, you can either contribute icons or code.
 
 ## Contributing icons
-To contribute icons, you need an icon editor (e.g., Figma, Inkscape, etc), a file explorer, a text editor, and a terminal window.
+For beginners, it is faster to create icons [in Figma](https://www.figma.com/), although [Inkscape](https://inkscape.org/) and similar software will do. A file explorer, a text editor, and a terminal window will also be useful.
 
 For additional information on designing icons and samples, see [the Lawnicons Figma repository](https://www.figma.com/community/file/1227718471680779613) made by [Grabstertv](https://github.com/Grabstertv).
 
@@ -33,7 +33,7 @@ Square icons must fit the `154×154px` content area size. Icons that mostly fit 
 #### Color
 All shapes must have non-transparent black color `#000000`.
 #### Stroke widths
-The stroke should be kept at `12px` in most cases. If an icon is too minimal or dense, you'll need other widths: `14px` for the most minimal, and `8px` for the densest. For fine details, you can use `6px`. For more clarification, please refer to [the visual balance section](https://github.com/x9136/lawnicons/blob/addate/CONTRIBUTING.md#maintaining-visual-balance) down below.
+The stroke should be kept at `12px` in most cases. If an icon is too minimal or dense, you'll need other widths: `14px` for the most minimal, and `8px` for the densest. For fine details, you can use `6px`. For more clarification, please refer to [the visual balance section](https://github.com/LawnchairLauncher/lawnicons/blob/develop/CONTRIBUTING.md#maintaining-visual-balance) down below.
 #### End caps
 All shapes must have rounded caps and joins.
 #### Corner radius
@@ -125,7 +125,7 @@ Correct
 ## Adding an icon to Lawnicons
 Here's how to add an icon to Lawnicons:
 
-### Prerequesties
+### Prerequisites
 * Your icon in the SVG format, adhering to the [above guidelines](#contributing-icons). The filename must use snake case (e.g. `files_by_google.svg`).
 * The package and activity name of the app.
 

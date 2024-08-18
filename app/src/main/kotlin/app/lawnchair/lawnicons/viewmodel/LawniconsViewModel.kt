@@ -7,12 +7,16 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import app.lawnchair.lawnicons.model.SearchMode
 import app.lawnchair.lawnicons.repository.IconRepository
+import app.lawnchair.lawnicons.repository.UserTipsRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 import kotlinx.coroutines.launch
 
 @HiltViewModel
-class LawniconsViewModel @Inject constructor(private val iconRepository: IconRepository) :
+class LawniconsViewModel @Inject constructor(
+    private val iconRepository: IconRepository,
+    private val userTipsRepository: UserTipsRepository,
+) :
     ViewModel() {
     @JvmField
     val iconInfoModel = iconRepository.iconInfoModel
@@ -21,7 +25,12 @@ class LawniconsViewModel @Inject constructor(private val iconRepository: IconRep
     val searchedIconInfoModel = iconRepository.searchedIconInfoModel
 
     @JvmField
-    val iconRequestList = iconRepository.iconRequestList
+    val iconRequestModel = iconRepository.iconRequestList
+
+    @JvmField
+    val isIconRequestButtonClicked = userTipsRepository.hasClickedIconRequestButton()
+
+    var expandSearch by mutableStateOf(false)
 
     private var _searchMode by mutableStateOf(SearchMode.LABEL)
     private var _searchTerm by mutableStateOf("")
@@ -49,7 +58,13 @@ class LawniconsViewModel @Inject constructor(private val iconRepository: IconRep
     fun clearSearch() {
         _searchTerm = ""
         viewModelScope.launch {
-            iconRepository.clear()
+            iconRepository.clearSearch()
+        }
+    }
+
+    fun onIconRequestButtonClicked() {
+        if (!userTipsRepository.hasClickedIconRequestButton()) {
+            userTipsRepository.onIconRequestButtonClicked()
         }
     }
 }
