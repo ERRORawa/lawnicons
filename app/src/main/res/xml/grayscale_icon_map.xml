@@ -92,4 +92,8 @@
     <icon drawable="@drawable/netease_god" package="com.example.c001apk.flutter" name="c001apk-flutter" />
     <icon drawable="@drawable/rizline_cn" package="com.leiting.ldgj" name="律动轨迹 ~~ Rizline" />
     <icon drawable="@drawable/sky_cn" package="com.netease.sky" name="光·遇 ~~ Sky: Children of the Light" />
+    <icon drawable="@drawable/zzz" package="com.HoYoverse.Nap" name="绝区零 ~~ ZenlessZoneZero" />
+    <icon drawable="@drawable/qspeed" package="com.tencent.tmgp.speedmobile" name="QQ飞车 ~~ QSpeed Mobile" />
+    <icon drawable="@drawable/reyamf" package="com.mja.reyamf" name="reYAMF" />
+    <icon drawable="@drawable/_3dmark" package="com.futuremark.dmandroid.application" name="3DMark" />
 </icons>
