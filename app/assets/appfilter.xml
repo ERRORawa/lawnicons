@@ -11845,7 +11845,7 @@
   <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.melodis.midomiMusicIdentifier.appcommon.activity.SplashScreenActivity}" drawable="soundhound" name="SoundHound" />
   <item component="ComponentInfo{com.MusitatStudio.RYCEAMGlobal/com.unity3d.player.UnityPlayerActivity}" drawable="ryceam" name="RYCEAM" />
   <item component="ComponentInfo{com.oasisfeng.nevo/com.oasisfeng.nevo.SettingsActivity}" drawable="nevo" name="女娲石 ~~ Nevolution" />
-  <item component="ComponentInfo{tool.seagull.v/io.github.trojan_gfw.igniter.MainActivity}" drawable="seagull" name="海鸥加速器" />
+  <item component="ComponentInfo{tool.seagull.v/com.tool.seagull.MainActivity}" drawable="seagull" name="海鸥加速器" />
   <item component="ComponentInfo{com.taptap.global/com.play.taptap.ui.SplashAct}" drawable="taptap_global" name="TapTap" />
   <item component="ComponentInfo{com.tunergames.paradigmchina/com.unity3d.player.UnityPlayerActivity}" drawable="paradigm_reboot_china" name="范式：起源 ~~ Paradigm:Reboot" />
   <item component="ComponentInfo{com.videogo/com.videogo.LauncherActivity}" drawable="videogo" name="萤石云视频" />
@@ -11874,4 +11874,8 @@
   <item component="ComponentInfo{com.tencent.tmgp.speedmobile/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}" drawable="qspeed" name="QQ飞车 ~~ QSpeed Mobile"/>
   <item component="ComponentInfo{com.mja.reyamf/com.mja.reyamf.manager.ui.main.MainActivity}" drawable="reyamf" name="reYAMF"/>
   <item component="ComponentInfo{com.miHoYo.bh3global/com.miHoYo.overridenativeactivity.OverrideNativeActivity}" drawable="honkai_impact_3rd" name="崩坏3rd ~~ Honkai Impact 3rd" />
+  <item component="ComponentInfo{com.silentgd.musedashcustomplay/com.unity3d.player.UnityPlayerActivity}" drawable="musedash_customplay" name="Muse Dash CustomPlay"/>
+  <item component="ComponentInfo{com.rayark.cytus2/com.google.firebase.MessagingUnityPlayerActivity}" drawable="cytus_ii" name="音乐世界2 ~~ Cytus II"/>
+  <item component="ComponentInfo{com.yozo.office/com.yozo.office.MainAppActivity}" drawable="yozo_office" name="永中Office"/>
+  <item component="ComponentInfo{com.yiban.app/com.yiban.app.activity.WelcomeActivity}" drawable="yiban" name="易班"/>
 </resources>
