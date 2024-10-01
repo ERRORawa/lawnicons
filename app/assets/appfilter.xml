@@ -9155,7 +9155,9 @@
   <item component="ComponentInfo{com.sonymobile.support/com.sonymobile.support.InAppSupportLauncher}" drawable="sony_support" name="Sony Support" />
   <item component="ComponentInfo{jp.co.sony.mc.videopro/jp.co.sony.mc.videopro.VideoProActivity}" drawable="sony_videography_pro" name="Sony Videography Pro" />
   <item component="ComponentInfo{com.mycompany.app.soulbrowser/com.mycompany.app.web.WebViewActivity}" drawable="soul" name="Soul" />
-  <item component="ComponentInfo{com.ChillyRoom.DungeonShooter/com.chillyroomsdk.sdkbridge.BasePlayerActivity}" drawable="soul_knight" name="Soul Knight" />
+    <item component="ComponentInfo{com.ChillyRoom.DungeonShooter/com.chillyroomsdk.googleplay.MainActivity}" drawable="soul_knight" name="元气骑士 ~~ Soul Knight"/>
+    <item component="ComponentInfo{com.ChillyRoom.DungeonShooter/com.chillyroomsdk.sdkbridge.BasePlayerActivity}" drawable="soul_knight"  name="元气骑士 ~~ Soul Knight"/>
+    <item component="ComponentInfo{com.ChillyRoom.DungeonShooter/com.chillyroomsdk.sdkbridge.privacy.BasePrivacyActivity}" drawable="soul_knight"  name="元气骑士 ~~ Soul Knight"/>
   <item component="ComponentInfo{com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.ui.SoundAmplifierSettingActivity}" drawable="sound_amplifier" name="Sound Amplifier" />
   <item component="ComponentInfo{com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.LauncherActivity}" drawable="sound_amplifier" name="Sound Amplifier" />
   <item component="ComponentInfo{com.gamebasic.decibel/com.gamebasic.decibel.DecibelActi}" drawable="sound_meter" name="Sound Meter" />
