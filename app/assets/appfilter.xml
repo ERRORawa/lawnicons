@@ -11880,4 +11880,6 @@
   <item component="ComponentInfo{com.rayark.cytus2/com.google.firebase.MessagingUnityPlayerActivity}" drawable="cytus_ii" name="音乐世界2 ~~ Cytus II"/>
   <item component="ComponentInfo{com.yozo.office/com.yozo.office.MainAppActivity}" drawable="yozo_office" name="永中Office"/>
   <item component="ComponentInfo{com.yiban.app/com.yiban.app.activity.WelcomeActivity}" drawable="yiban" name="易班"/>
+  <item component="ComponentInfo{com.futurenavi.wzk/com.futurenavi.wzk.SplashAct}" drawable="weizhiku" name="微知库学生版" />
+  <item component="ComponentInfo{com.bxkj.student/com.bxkj.student.splash.SplashActivity}" drawable="tishineng" name="体适能" />
 </resources>
