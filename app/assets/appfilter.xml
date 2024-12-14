@@ -11870,16 +11870,23 @@
   <item component="ComponentInfo{moe.low.arcedit/low.moe.AppActivity}" drawable="arcedit" name="Arcedit" />
   <item component="ComponentInfo{com.example.c001apk.flutter/com.example.c001apk.flutter.MainActivity}" drawable="c001apk" name="c001apk_flutter" />
   <item component="ComponentInfo{com.netease.gl/com.netease.gl.ui.activity.welcome.WelcomeInitActivity}" drawable="netease_god" name="网易大神" />
-  <item component="ComponentInfo{com.leiting.ldgj/com.leiting.sdk.activity.PrivacyActivity}" drawable="rizline_cn" name="律动轨迹 ~~ Rizline"/>
-  <item component="ComponentInfo{com.netease.sky/com.netease.ntunisdk.external.protocol.ProtocolLauncher}" drawable="sky_cn" name="光·遇 ~~ Sky: Children of the Light"/>
-  <item component="ComponentInfo{com.HoYoverse.Nap/com.mihoyo.combosdk.ComboSDKActivity}" drawable="zzz" name="绝区零 ~~ ZenlessZoneZero"/>
-  <item component="ComponentInfo{com.tencent.tmgp.speedmobile/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}" drawable="qspeed" name="QQ飞车 ~~ QSpeed Mobile"/>
-  <item component="ComponentInfo{com.mja.reyamf/com.mja.reyamf.manager.ui.main.MainActivity}" drawable="reyamf" name="reYAMF"/>
+  <item component="ComponentInfo{com.leiting.ldgj/com.leiting.sdk.activity.PrivacyActivity}" drawable="rizline_cn" name="律动轨迹 ~~ Rizline" />
+  <item component="ComponentInfo{com.netease.sky/com.netease.ntunisdk.external.protocol.ProtocolLauncher}" drawable="sky_cn" name="光·遇 ~~ Sky: Children of the Light" />
+  <item component="ComponentInfo{com.HoYoverse.Nap/com.mihoyo.combosdk.ComboSDKActivity}" drawable="zzz" name="绝区零 ~~ ZenlessZoneZero" />
+  <item component="ComponentInfo{com.tencent.tmgp.speedmobile/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}" drawable="qspeed" name="QQ飞车 ~~ QSpeed Mobile" />
+  <item component="ComponentInfo{com.mja.reyamf/com.mja.reyamf.manager.ui.main.MainActivity}" drawable="reyamf" name="reYAMF" />
   <item component="ComponentInfo{com.miHoYo.bh3global/com.miHoYo.overridenativeactivity.OverrideNativeActivity}" drawable="honkai_impact_3rd" name="崩坏3rd ~~ Honkai Impact 3rd" />
-  <item component="ComponentInfo{com.silentgd.musedashcustomplay/com.unity3d.player.UnityPlayerActivity}" drawable="musedash_customplay" name="Muse Dash CustomPlay"/>
-  <item component="ComponentInfo{com.rayark.cytus2/com.google.firebase.MessagingUnityPlayerActivity}" drawable="cytus_ii" name="音乐世界2 ~~ Cytus II"/>
-  <item component="ComponentInfo{com.yozo.office/com.yozo.office.MainAppActivity}" drawable="yozo_office" name="永中Office"/>
-  <item component="ComponentInfo{com.yiban.app/com.yiban.app.activity.WelcomeActivity}" drawable="yiban" name="易班"/>
+  <item component="ComponentInfo{com.silentgd.musedashcustomplay/com.unity3d.player.UnityPlayerActivity}" drawable="musedash_customplay" name="Muse Dash CustomPlay" />
+  <item component="ComponentInfo{com.rayark.cytus2/com.google.firebase.MessagingUnityPlayerActivity}" drawable="cytus_ii" name="音乐世界2 ~~ Cytus II" />
+  <item component="ComponentInfo{com.yozo.office/com.yozo.office.MainAppActivity}" drawable="yozo_office" name="永中Office" />
+  <item component="ComponentInfo{com.yiban.app/com.yiban.app.activity.WelcomeActivity}" drawable="yiban" name="易班" />
   <item component="ComponentInfo{com.futurenavi.wzk/com.futurenavi.wzk.SplashAct}" drawable="weizhiku" name="微知库学生版" />
   <item component="ComponentInfo{com.bxkj.student/com.bxkj.student.splash.SplashActivity}" drawable="tishineng" name="体适能" />
+  <item component="ComponentInfo{com.redoy.myapplication/com.redoy.myapplication.SplashActivity}" drawable="singapore_plus_vpn" name="Singapore Plus VPN" />
+  <item component="ComponentInfo{net.lab.flying/net.lab.flying.MainActivity}" drawable="lab_flying" name="原子加速器" />
+  <item component="ComponentInfo{com.fifedu.tsdx/com.fifedu.tsdx.ui.activity.login.SplashActivity}" drawable="fifedu" name="FiF口语训练" />
+  <item component="ComponentInfo{com.dundastech.sqlitemasterlight/com.amosmobile.sqlitemasterpro2.SQLiteMaster}" drawable="sqlite_master" name="SQLite Master" />
+  <item component="ComponentInfo{com.netease.mc.mi/com.netease.ntunisdk.external.protocol.ProtocolLauncher}" drawable="netease_minecraft" name="网易我的世界 ~~ 我的世界：移动版" />
+  <item component="ComponentInfo{cn.milkycandy.rotaenoupdater/cn.milkycandy.rotaenoupdater.MainActivity}" drawable="android_default" name="RotaenoUploader" />
+  <item component="ComponentInfo{com.divin.oneuioptimizer/com.divin.oneuioptimizer.MainActivity}" drawable="android_default" name="预见式返回动画" />
 </resources>
