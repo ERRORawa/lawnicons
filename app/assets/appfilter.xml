@@ -9155,9 +9155,9 @@
   <item component="ComponentInfo{com.sonymobile.support/com.sonymobile.support.InAppSupportLauncher}" drawable="sony_support" name="Sony Support" />
   <item component="ComponentInfo{jp.co.sony.mc.videopro/jp.co.sony.mc.videopro.VideoProActivity}" drawable="sony_videography_pro" name="Sony Videography Pro" />
   <item component="ComponentInfo{com.mycompany.app.soulbrowser/com.mycompany.app.web.WebViewActivity}" drawable="soul" name="Soul" />
-    <item component="ComponentInfo{com.ChillyRoom.DungeonShooter/com.chillyroomsdk.googleplay.MainActivity}" drawable="soul_knight" name="元气骑士 ~~ Soul Knight"/>
-    <item component="ComponentInfo{com.ChillyRoom.DungeonShooter/com.chillyroomsdk.sdkbridge.BasePlayerActivity}" drawable="soul_knight"  name="元气骑士 ~~ Soul Knight"/>
-    <item component="ComponentInfo{com.ChillyRoom.DungeonShooter/com.chillyroomsdk.sdkbridge.privacy.BasePrivacyActivity}" drawable="soul_knight"  name="元气骑士 ~~ Soul Knight"/>
+  <item component="ComponentInfo{com.ChillyRoom.DungeonShooter/com.chillyroomsdk.googleplay.MainActivity}" drawable="soul_knight" name="元气骑士 ~~ Soul Knight"/>
+  <item component="ComponentInfo{com.ChillyRoom.DungeonShooter/com.chillyroomsdk.sdkbridge.BasePlayerActivity}" drawable="soul_knight"  name="元气骑士 ~~ Soul Knight"/>
+  <item component="ComponentInfo{com.ChillyRoom.DungeonShooter/com.chillyroomsdk.sdkbridge.privacy.BasePrivacyActivity}" drawable="soul_knight"  name="元气骑士 ~~ Soul Knight"/>
   <item component="ComponentInfo{com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.ui.SoundAmplifierSettingActivity}" drawable="sound_amplifier" name="Sound Amplifier" />
   <item component="ComponentInfo{com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.LauncherActivity}" drawable="sound_amplifier" name="Sound Amplifier" />
   <item component="ComponentInfo{com.gamebasic.decibel/com.gamebasic.decibel.DecibelActi}" drawable="sound_meter" name="Sound Meter" />
@@ -9563,7 +9563,6 @@
   <item component="ComponentInfo{com.sharpregion.tapet/com.sharpregion.tapet.main.home.HomeActivity}" drawable="tapet" name="Tapet" />
   <item component="ComponentInfo{com.sharpregion.tapet/com.sharpregion.tapet.root.RootActivity}" drawable="tapet" name="Tapet" />
   <item component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}" drawable="taptap" name="TapTap" />
-  <item component="ComponentInfo{com.taptap.global/com.play.taptap.ui.SplashAct}" drawable="taptap" name="TapTap" />
   <item component="ComponentInfo{com.target.ui/com.target.ui.activity.NavigationActivity}" drawable="target" name="Target" />
   <item component="ComponentInfo{com.target.ui/com.target.android.activity.TopLevelNavigationActivity}" drawable="target" name="Target" />
   <item component="ComponentInfo{com.lasoo.android.target/com.lasoo.android.target.MainActivity}" drawable="target" name="Target" />
@@ -11863,7 +11862,8 @@
   <item component="ComponentInfo{com.yubyf.quotelockx/com.crossbowffs.quotelock.app.main.MainActivity}" drawable="quotelockx" name="格言锁屏 X ~~ QuoteLock X" />
   <item component="ComponentInfo{net.huanci.hsjpro/net.huanci.hsjpro.activities.FlashActivity}" drawable="hsjpro" name="画世界Pro" />
   <item component="ComponentInfo{com.kieronquinn.app.pixellaunchermods/com.kieronquinn.app.pixellaunchermods.ui.activities.MainActivity}" drawable="pixel_launcher_mods" name="Pixel Launcher Mods" />
-  <item component="ComponentInfo{sh.siava.pixelxpert/sh.siava.pixelxpert.SplashScreenActivityNormalIcon}" drawable="pixel_xpert" name="Pixel Xpert" />
+  <item component="ComponentInfo{sh.siava.pixelxpert/sh.siava.pixelxpert.FakeSplashActivityNormalIcon}" drawable="pixel_xpert" name="Pixel Xpert" />
+  <item component="ComponentInfo{sh.siava.pixelxpert/sh.siava.pixelxpert.FakeSplashActivityAlternateIcon}" drawable="pixel_xpert" name="Pixel Xpert" />
   <item component="ComponentInfo{com.cmplay.dancingline/com.cmplay.permisson.NewLauncheActivity}" drawable="dancingline" name="跳舞的线 ~~ Dancing Line" />
   <item component="ComponentInfo{xzr.La.systemtoolbox/xzr.La.systemtoolbox.ui.activities.StartActivity}" drawable="la_systemtoolbox" name="镧·系统工具箱 ~~ La SystemToolbox" />
   <item component="ComponentInfo{org.proxydroid/org.proxydroid.ProxyDroid}" drawable="proxydroid" name="ProxyDroid" />
@@ -11873,6 +11873,7 @@
   <item component="ComponentInfo{com.leiting.ldgj/com.leiting.sdk.activity.PrivacyActivity}" drawable="rizline_cn" name="律动轨迹 ~~ Rizline" />
   <item component="ComponentInfo{com.netease.sky/com.netease.ntunisdk.external.protocol.ProtocolLauncher}" drawable="sky_cn" name="光·遇 ~~ Sky: Children of the Light" />
   <item component="ComponentInfo{com.HoYoverse.Nap/com.mihoyo.combosdk.ComboSDKActivity}" drawable="zzz" name="绝区零 ~~ ZenlessZoneZero" />
+  <item component="ComponentInfo{com.miHoYo.Nap/com.mihoyo.combosdk.ComboSDKActivity}" drawable="zzz" name="绝区零 ~~ ZenlessZoneZero" />
   <item component="ComponentInfo{com.tencent.tmgp.speedmobile/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}" drawable="qspeed" name="QQ飞车 ~~ QSpeed Mobile" />
   <item component="ComponentInfo{com.mja.reyamf/com.mja.reyamf.manager.ui.main.MainActivity}" drawable="reyamf" name="reYAMF" />
   <item component="ComponentInfo{com.miHoYo.bh3global/com.miHoYo.overridenativeactivity.OverrideNativeActivity}" drawable="honkai_impact_3rd" name="崩坏3rd ~~ Honkai Impact 3rd" />
@@ -11889,4 +11890,17 @@
   <item component="ComponentInfo{com.netease.mc.mi/com.netease.ntunisdk.external.protocol.ProtocolLauncher}" drawable="netease_minecraft" name="网易我的世界 ~~ 我的世界：移动版" />
   <item component="ComponentInfo{cn.milkycandy.rotaenoupdater/cn.milkycandy.rotaenoupdater.MainActivity}" drawable="android_default" name="RotaenoUploader" />
   <item component="ComponentInfo{com.divin.oneuioptimizer/com.divin.oneuioptimizer.MainActivity}" drawable="android_default" name="预见式返回动画" />
+  <item component="ComponentInfo{com.rayark.deemo2/com.unity3d.player.UnityPlayerActivity}" drawable="deemo_ii" name="Deemo II" />
+  <item component="ComponentInfo{homo.github.brokenithm.zhcnver/com.github.brokenithm.activity.MainActivity}" drawable="android_default" name="Brokenithm CN-Ver" />
+  <item component="ComponentInfo{xyz.xfqlittlefan.notdeveloper/xyz.xfqlittlefan.notdeveloper.ui.activities.MainActivity}" drawable="android_default" name="我不是开发者" />
+  <item component="ComponentInfo{com.google.android.apps.restore/com.google.android.apps.pixelmigrate.migrate.component.D2dWizardManager}" drawable="android_switch" name="Android Switch" />
+  <item component="ComponentInfo{com.google.android.apps.restore/com.google.android.apps.restore.restoreanytime.trampoline.Trampoline}" drawable="android_switch" name="Android Switch" />
+  <item component="ComponentInfo{com.parallelc.micts/com.parallelc.micts.ui.activity.MainActivity}" drawable="micts" name="MiCTS" />
+  <item component="ComponentInfo{com.hundsun.mobile.hsbrowsertest/com.hundsun.mobile.mbank.launcher.agent.SplashLaunchActivity}" drawable="drc_bank" name="东莞农商银行" />
+  <item component="ComponentInfo{com.hotplaygames.gt/com.hotplaygames.gt.ui.main.MainActivity}" drawable="gamestoday" name="GamesToday" />
+  <item component="ComponentInfo{cn.myflv.monitor.noactive/cn.myflv.noactive.ui.MainActivity}" drawable="noactive" name="NoActive Monitor" />
+  <item component="ComponentInfo{client.android.yixiaotong/client.android.yixiaotong.ui.WelcomeActivity}" drawable="lexiaotong" name="乐校通" />
+  <item component="ComponentInfo{xzr.hkf/xzr.hkf.MainActivity}" drawable="horizon_kernel_flasher" name="Horizon Kernel Flasher" />
+  <item component="ComponentInfo{com.richardluo.globalIconPack/com.richardluo.globalIconPack.ui.MainActivity}" drawable="global_icon_pack" name="全局图标包 ~~ Global Icon Pack" />
+  <item component="ComponentInfo{com.jozein.xedgepro/com.jozein.xedgepro.ui.ActivityMain}" drawable="xposed_edge_pro" name="Xposed Edge Pro" />
 </resources>
