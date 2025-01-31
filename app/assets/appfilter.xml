@@ -768,9 +768,7 @@
   <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.GoogleIcon}" drawable="ayugram" name="AyuGram" />
   <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.MonetIcon}" drawable="ayugram" name="AyuGram" />
   <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.NeoIcon}" drawable="ayugram" name="AyuGram" />
-  <item component="ComponentInfo{org.telegram.messenger.web/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
   <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
-  <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
   <item component="ComponentInfo{com.linecorp.b612.android/com.linecorp.b612.android.activity.ActivityCamera}" drawable="b612" name="B612" />
   <item component="ComponentInfo{com.kakaobrain.bdiscover/com.kakaobrain.bdiscover.MainActivity}" drawable="b_discover" name="B^ DISCOVER" />
   <item component="ComponentInfo{com.babbel.mobile.android.en/com.babbel.mobile.android.core.presentation.MainActivity}" drawable="babbel" name="Babbel" />
@@ -9163,6 +9161,9 @@
   <item component="ComponentInfo{com.gamebasic.decibel/com.gamebasic.decibel.DecibelActi}" drawable="sound_meter" name="Sound Meter" />
   <item component="ComponentInfo{com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder}" drawable="recorder" name="Sound Recorder" />
   <item component="ComponentInfo{com.rocketsauce83.musicsearch/com.rocketsauce83.musicsearch.MainActivity}" drawable="sound_search" name="Sound Search" />
+  <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.search.soundsearch.shortcut.AliasAddShortcutActivity}" drawable="sound_search" name="歌曲搜索 ~~ Sound Search" />
+  <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.search.soundsearch.shortcut}" drawable="sound_search" name="歌曲搜索 ~~ Sound Search" />
+  <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher}" drawable="sound_search" name="歌曲搜索 ~~ Sound Search" />
   <item component="ComponentInfo{com.grmasa.soundtoggle/com.grmasa.soundtoggle.MainActivity}" drawable="sound_toggle" name="Sound Toggle" />
   <item component="ComponentInfo{in.shabinder.soundbound/in.shabinder.soundbound.MainActivity}" drawable="soundbound" name="Soundbound" />
   <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Dashboard}" drawable="soundcloud" name="SoundCloud" />
@@ -11850,8 +11851,8 @@
   <item component="ComponentInfo{com.taptap.global/com.play.taptap.ui.SplashAct}" drawable="taptap_global" name="TapTap" />
   <item component="ComponentInfo{com.tunergames.paradigmchina/com.unity3d.player.UnityPlayerActivity}" drawable="paradigm_reboot_china" name="范式：起源 ~~ Paradigm:Reboot" />
   <item component="ComponentInfo{com.videogo/com.videogo.LauncherActivity}" drawable="videogo" name="萤石云视频" />
-  <item component="ComponentInfo{com.hermes.mk.asia/com.hermes.mk.SDKActivity}" drawable="pjsk" name="世界计划" />
-  <item component="ComponentInfo{com.yxer.packageinstalles/com.yxer.packageinstalles.MainUiActivity}" drawable="r_packageinstaller" name="R-安装组件" />
+  <item component="ComponentInfo{com.hermes.mk.asia/com.hermes.mk.SDKActivity}" drawable="pjsk" name="世界計畫" />
+  <item component="ComponentInfo{com.yxer.packageinstalles/com.yxer.packageinstalles.MainUiActivity}" drawable="r_packageinstaller" name="R-安装组件 ~~ R-Installation components" />
   <item component="ComponentInfo{com.xd.rotaeno.tapio/com.unity3d.player.UnityPlayerActivity}" drawable="rotaeno" name="旋转音律 ~~ Rotaeno" />
   <item component="ComponentInfo{com.njh.biubiu/com.njh.ping.launcher.LauncherActivity}" drawable="biubiu" name="biubiu加速器" />
   <item component="ComponentInfo{xyz.chz.bfm/xyz.chz.bfm.ui.MainActivity}" drawable="box_for_root" name="BoxForRoot" />
@@ -11865,7 +11866,7 @@
   <item component="ComponentInfo{sh.siava.pixelxpert/sh.siava.pixelxpert.FakeSplashActivityNormalIcon}" drawable="pixel_xpert" name="Pixel Xpert" />
   <item component="ComponentInfo{sh.siava.pixelxpert/sh.siava.pixelxpert.FakeSplashActivityAlternateIcon}" drawable="pixel_xpert" name="Pixel Xpert" />
   <item component="ComponentInfo{com.cmplay.dancingline/com.cmplay.permisson.NewLauncheActivity}" drawable="dancingline" name="跳舞的线 ~~ Dancing Line" />
-  <item component="ComponentInfo{xzr.La.systemtoolbox/xzr.La.systemtoolbox.ui.activities.StartActivity}" drawable="la_systemtoolbox" name="镧·系统工具箱 ~~ La SystemToolbox" />
+  <item component="ComponentInfo{xzr.La.systemtoolbox/xzr.La.systemtoolbox.ui.activities.StartActivity}" drawable="la_systemtoolbox" name="镧·系统工具箱 ~~ Lanthanum system toolbox" />
   <item component="ComponentInfo{org.proxydroid/org.proxydroid.ProxyDroid}" drawable="proxydroid" name="ProxyDroid" />
   <item component="ComponentInfo{moe.low.arcedit/low.moe.AppActivity}" drawable="arcedit" name="Arcedit" />
   <item component="ComponentInfo{com.example.c001apk.flutter/com.example.c001apk.flutter.MainActivity}" drawable="c001apk" name="c001apk_flutter" />
@@ -11874,7 +11875,7 @@
   <item component="ComponentInfo{com.netease.sky/com.netease.ntunisdk.external.protocol.ProtocolLauncher}" drawable="sky_cn" name="光·遇 ~~ Sky: Children of the Light" />
   <item component="ComponentInfo{com.HoYoverse.Nap/com.mihoyo.combosdk.ComboSDKActivity}" drawable="zzz" name="绝区零 ~~ ZenlessZoneZero" />
   <item component="ComponentInfo{com.miHoYo.Nap/com.mihoyo.combosdk.ComboSDKActivity}" drawable="zzz" name="绝区零 ~~ ZenlessZoneZero" />
-  <item component="ComponentInfo{com.tencent.tmgp.speedmobile/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}" drawable="qspeed" name="QQ飞车 ~~ QSpeed Mobile" />
+  <item component="ComponentInfo{com.tencent.tmgp.speedmobile/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}" drawable="qspeed" name="QQ飞车" />
   <item component="ComponentInfo{com.mja.reyamf/com.mja.reyamf.manager.ui.main.MainActivity}" drawable="reyamf" name="reYAMF" />
   <item component="ComponentInfo{com.miHoYo.bh3global/com.miHoYo.overridenativeactivity.OverrideNativeActivity}" drawable="honkai_impact_3rd" name="崩坏3rd ~~ Honkai Impact 3rd" />
   <item component="ComponentInfo{com.silentgd.musedashcustomplay/com.unity3d.player.UnityPlayerActivity}" drawable="musedash_customplay" name="Muse Dash CustomPlay" />
@@ -11892,7 +11893,7 @@
   <item component="ComponentInfo{com.divin.oneuioptimizer/com.divin.oneuioptimizer.MainActivity}" drawable="android_default" name="预见式返回动画" />
   <item component="ComponentInfo{com.rayark.deemo2/com.unity3d.player.UnityPlayerActivity}" drawable="deemo_ii" name="Deemo II" />
   <item component="ComponentInfo{homo.github.brokenithm.zhcnver/com.github.brokenithm.activity.MainActivity}" drawable="android_default" name="Brokenithm CN-Ver" />
-  <item component="ComponentInfo{xyz.xfqlittlefan.notdeveloper/xyz.xfqlittlefan.notdeveloper.ui.activities.MainActivity}" drawable="android_default" name="我不是开发者" />
+  <item component="ComponentInfo{xyz.xfqlittlefan.notdeveloper/xyz.xfqlittlefan.notdeveloper.ui.activities.MainActivity}" drawable="android_default" name="我不是开发者 ~~ IAmNotADeveloper" />
   <item component="ComponentInfo{com.google.android.apps.restore/com.google.android.apps.pixelmigrate.migrate.component.D2dWizardManager}" drawable="android_switch" name="Android Switch" />
   <item component="ComponentInfo{com.google.android.apps.restore/com.google.android.apps.restore.restoreanytime.trampoline.Trampoline}" drawable="android_switch" name="Android Switch" />
   <item component="ComponentInfo{com.parallelc.micts/com.parallelc.micts.ui.activity.MainActivity}" drawable="micts" name="MiCTS" />
@@ -11903,4 +11904,12 @@
   <item component="ComponentInfo{xzr.hkf/xzr.hkf.MainActivity}" drawable="horizon_kernel_flasher" name="Horizon Kernel Flasher" />
   <item component="ComponentInfo{com.richardluo.globalIconPack/com.richardluo.globalIconPack.ui.MainActivity}" drawable="global_icon_pack" name="全局图标包 ~~ Global Icon Pack" />
   <item component="ComponentInfo{com.jozein.xedgepro/com.jozein.xedgepro.ui.ActivityMain}" drawable="xposed_edge_pro" name="Xposed Edge Pro" />
+  <item component="ComponentInfo{me.naptila.neteaseios/.MainActivity}" drawable="android_default" name="Netease IOS" />
+  <item component="ComponentInfo{com.twifucker.hachidori/.MainActivity}" drawable="android_default" name="Hachidori" />
+  <item component="ComponentInfo{com.bug.hookvip/.MainActivity}" drawable="android_default" name="Fuck for VIP" />
+  <item component="ComponentInfo{io.github.vvb2060.callrecording/.MainActivity}" drawable="android_default" name="通话录音 ~~ Call Recording" />
+  <item component="ComponentInfo{com.yxer.compo.module/.MainActivity}" drawable="android_default" name="R-安装组件-扩展" />
+  <item component="ComponentInfo{com.genymobile.gnirehtet/.MainActivity}" drawable="android_default" name="Gnirehtet" />
+  <item component="ComponentInfo{com.coderstory.toolkit/.MainActivity}" drawable="android_default" name="核心破解 ~~ Core Patch" />
+  <item component="ComponentInfo{cn.android.x/.MainActivity}" drawable="android_default" name="X" />
 </resources>
