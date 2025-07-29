@@ -11926,4 +11926,9 @@
   <item component="ComponentInfo{nep.timeline.freezer/.MainActivity}" drawable="noactive" name="Freezer"/>
   <item component="ComponentInfo{bin.mt.plus@/.MainLightIcon}" classname="e170071e2a1ee00a468989612cd8494f" drawable="lspatch_lsposed" name="LSPosed"/>
   <item component="ComponentInfo{bin.mt.plus@/e170071e2a1ee00a468989612cd8494f}" classname="e170071e2a1ee00a468989612cd8494f" drawable="lspatch_lsposed" name="LSPosed"/>
+  <item component="ComponentInfo{com.box.app/com.box.app.MainActivity}" drawable="box_for_magisk" name="Box"/>
+  <item component="ComponentInfo{com.close.hook.ads/com.close.hook.ads.SplashActivityLauncher}" drawable="adclose" name="AdClose"/>
+  <item component="ComponentInfo{com.vexiro.magiks/com.vexiro.magiks.MainActivity}" drawable="magiks_vexiro" name="Magiks Vexiro"/>
+  <item component="ComponentInfo{org.bepass.oblivion/org.bepass.oblivion.ui.SplashScreenActivity}" drawable="oblivion" name="Oblivion"/>
+  <item component="ComponentInfo{com.aokj.audiometry/com.maple.audiometry.SplashActivityStartUp}" drawable="audiometry" name="分贝仪噪音量" />
 </resources>
